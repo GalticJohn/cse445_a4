@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel Rating="4.2">
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address NearstAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E. 7th St</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.8">
+		<Name>Honu Waikiki by ALOH</Name>
+		<Phone>808-979-4664</Phone>
+		<Address NearstAirport="HNL">
+			<Number>1923</Number>
+			<Street>Dudoit Ln</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Halekulani Hotel</Name>
+		<Phone>808-923-2311</Phone>
+		<Address NearstAirport="HNL">
+			<Number>2199</Number>
+			<Street>Kalia Rd</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.7">
+		<Name>The Beach Waikiki Hostel by ALOH</Name>
+		<Phone>808-260-8699</Phone>
+		<Address NearstAirport="HNL">
+			<Number>2569</Number>
+			<Street>Cartwright Rd</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.1">
+		<Name>'Alohilani Resort Waikiki Beach</Name>
+		<Phone>808-922-1233</Phone>
+		<Phone>808-922-1234</Phone>
+		<Address NearstAirport="HNL">
+			<Number>2490</Number>
+			<Street>Kalakaua Ave</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="3.9">
+		<Name>Sweetwater Waikiki</Name>
+		<Phone>808-922-7502</Phone>
+		<Address NearstAirport="HNL">
+			<Number>201</Number>
+			<Street>Ohua Ave #403</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>The Ritz-Carlton Residences, Waikiki Beach</Name>
+		<Phone>808-922-8111</Phone>
+		<Address NearstAirport="HNL">
+			<Number>383</Number>
+			<Street>Kalaimoku St</Street>
+			<City>Honolulu</City>
+			<State>HI</State>
+			<Zip>96815</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.2">
+		<Name>Paradise Bay Resort</Name>
+		<Phone>808-239-5711</Phone>
+		<Address NearstAirport="HNL">
+			<Number>47-039</Number>
+			<Street>Lihikai Dr</Street>
+			<City>Kaneohe</City>
+			<State>HI</State>
+			<Zip>96744</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Ke Iki Beach Bungalows</Name>
+		<Phone>808-638-8229</Phone>
+		<Address NearstAirport="HNL">
+			<Number>59-579</Number>
+			<Street>Ke Iki Rd</Street>
+			<City>Haleiwa</City>
+			<State>HI</State>
+			<Zip>96712</Zip>
+		</Address>
+	</Hotel>
+	<Hotel Rating="4.6">
+		<Name>Four Seasons Resort Oahu at Ko Olina</Name>
+		<Phone>808-679-0079</Phone>
+		<Phone>808-679-0080</Phone>
+		<Address NearstAirport="HNL">
+			<Number>92-1001</Number>
+			<Street>Olani St</Street>
+			<City>Kapolei</City>
+			<State>HI</State>
+			<Zip>96707</Zip>
+		</Address>
+	</Hotel>
+	<Hotel>
+		<Name>Marriott's Ko Olina Beach Club</Name>
+		<Phone>808-679-4700</Phone>
+		<Address NearstAirport="HNL">
+			<Number>92-161</Number>
+			<Street>Waipahe Place</Street>
+			<City>Kapolei</City>
+			<State>HI</State>
+			<Zip>96707</Zip>
+		</Address>
+	</Hotel>
+</Hotels>
