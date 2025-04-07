@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Hotel>
+<Hotels>										<!--(!) should be 'Hotel' -->
 	<Hotel Rating="4.2">
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
@@ -15,7 +15,7 @@
 	<Hotel Rating="4.8">
 		<Name>Honu Waikiki by ALOH</Name>
 		<Phone>808-979-4664</Phone>
-		<Address>
+		<Address>								<!-- Required attribute missing -->
 			<Number>1923</Number>
 			<Street>Dudoit Ln</Street>
 			<City>Honolulu</City>
@@ -42,12 +42,12 @@
 			<Street>Cartwright Rd</Street>
 			<City>Honolulu</City>
 			<State>HI</State>
-			<Zip>96815</Zip>
+			<Zip>96815</Zip>						<!-- (!) Zip missing closing tag -->
 		</Address>
 	</Hotel>
 	<Hotel Rating="4.1">
 		<Name>'Alohilani Resort Waikiki Beach</Name>
-		<Name>'Alohilani Waikiki Beach</Name>
+		<Name>'Alohilani Waikiki Beach</Name>					<!-- Two names -->
 		<Phone>808-922-1233</Phone>
 		<Phone>808-922-1234</Phone>
 		<Address NearstAirport="HNL">
@@ -71,7 +71,7 @@
 	</Hotel>
 	<Hotel>
 		<Name>The Ritz-Carlton Residences, Waikiki Beach</Name>
-		<Address NearstAirport="HNL">
+		<Address NearstAirport="HNL">							<!-- No phone number -->
 			<Number>383</Number>
 			<Street>Kalaimoku St</Street>
 			<City>Honolulu</City>
@@ -111,6 +111,7 @@
 			<City>Kapolei</City>
 			<State>HI</State>
 			<Zip>96707</Zip>
+		</Address>
 	</Hotel>
 	<Hotel>
 		<Name>Marriott's Ko Olina Beach Club</Name>
@@ -123,4 +124,4 @@
 			<Zip>96707</Zip>
 		</Address>
 	</Hotel>
-</Hotel>
+</Hotels>
